@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Generador CRYPTONOX</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <img src="CRYPTONOX_Generator_UI.png" class="background" alt="CRYPTONOX UI" />
+    <div class="box">
+      <h1>Generador de Contraseñas</h1>
+      <div class="controls">
+        <label>Longitud: <span id="lengthValue">20</span></label>
+        <input type="range" id="length" min="5" max="53" value="20" oninput="updateLength(this.value)" />
+        <div class="checkboxes">
+          <label><input type="checkbox" id="uppercase" checked /> Mayúsculas</label>
+          <label><input type="checkbox" id="lowercase" checked /> Minúsculas</label>
+          <label><input type="checkbox" id="numbers" checked /> Números</label>
+          <label><input type="checkbox" id="symbols" checked /> Caracteres especiales</label>
+        </div>
+        <button onclick="generatePassword()">Generar Contraseña</button>
+        <input type="text" id="password" readonly />
+        <p id="strength"></p>
+      </div>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
