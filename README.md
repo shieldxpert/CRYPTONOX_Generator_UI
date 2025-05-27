@@ -1,25 +1,38 @@
-# 👨‍💻 shieldxpert
+# 🔐 CRYPTONOX Password Generator UI
 
-**Ethical hacker. Threat hunter.**  
-Developer of cybersecurity tools focused on defense and awareness.  
-I merge design, AI, and code to protect the digital future. Always building.
+Visual password generator created with a futuristic cyber design, made to run completely offline in the browser.
 
 ---
 
-### 🔐 Areas of Focus
+## 🧩 Technologies Used
 
-- Cybersecurity & threat detection  
-- Ethical hacking & digital forensics  
-- AI-powered security tools  
-- Awareness & education
-
----
-
-### 📫 Contact
-
-- GitHub: [https://github.com/shieldxpert](https://github.com/shieldxpert)  
-- LinkedIn: [https://www.linkedin.com/in/tom-seg-inf](https://www.linkedin.com/in/tom-seg-inf)
+- **HTML** – Structure of the interface  
+- **CSS** – Visual style, layout and responsiveness  
+- **JavaScript** – Password generation logic and interactivity
 
 ---
 
-> *"Protecting the digital world, one project at a time."*
+## ⚙️ Features
+
+- Choose password length (up to 53 characters)  
+- Enable/disable uppercase, lowercase, numbers, and symbols  
+- Evaluate password strength (Débil, Fuerte, Segura)  
+- Fully responsive design  
+- Works completely offline – no backend required
+
+---
+
+## 🚀 How to Use
+
+1. Download or clone the repository.  
+2. Open `index.html` in your browser.  
+3. Start generating secure passwords instantly.
+
+---
+
+## 📄 License
+
+This project is open-source and free to use under the MIT License.
+
+> *"Protecting the digital world, one password at a time."*
+
