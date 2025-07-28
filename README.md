@@ -1,10 +1,18 @@
-# 🔐 CRYPTONOX Password Generator UI
+
+![License](https://img.shields.io/badge/license-MIT-blue?style=flat)
+![Version](https://img.shields.io/badge/version-v2.0-orange?style=flat)
+![Status](https://img.shields.io/badge/status-active-success?style=flat)
+![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS%20%7C%20Android%20%7C%20iOS-lightgrey?style=flat)
+![Author](https://img.shields.io/badge/author-ShieldXpert-black?style=flat)
+
+
+# CRYPTONOX Password Generator UI
 
 Visual password generator created with a futuristic cyber design, made to run completely offline in the browser.
 
 ---
 
-## 🧩 Technologies Used
+## Technologies Used
 
 - **HTML** – Structure of the interface  
 - **CSS** – Visual style, layout and responsiveness  
@@ -12,7 +20,7 @@ Visual password generator created with a futuristic cyber design, made to run co
 
 ---
 
-## ⚙️ Features
+## ⚙Features
 
 - Choose password length (up to 53 characters)  
 - Enable/disable uppercase, lowercase, numbers, and symbols  
@@ -22,7 +30,7 @@ Visual password generator created with a futuristic cyber design, made to run co
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 1. Download or clone the repository.  
 2. Open `index.html` in your browser.  
@@ -30,7 +38,7 @@ Visual password generator created with a futuristic cyber design, made to run co
 
 ---
 
-## 📄 License
+##  License
 
 This project is open-source and free to use under the MIT License.
 
