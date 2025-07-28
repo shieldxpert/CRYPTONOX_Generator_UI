@@ -20,7 +20,7 @@ Visual password generator created with a futuristic cyber design, made to run co
 
 ---
 
-## ⚙Features
+## Features
 
 - Choose password length (up to 53 characters)  
 - Enable/disable uppercase, lowercase, numbers, and symbols  
